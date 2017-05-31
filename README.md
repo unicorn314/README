@@ -166,7 +166,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|语法|效果|
 |---|----|:---:|
 |1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
-|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
+|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](https://help.github.com/assets/images/site/create-a-repo.gif "点击进入github")][github]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 |4|`[![a](https://help.github.com/assets/images/site/create-a-repo.gif “点击进入github”)](http://www.github.com)`|![a](https://help.github.com/assets/images/site/create-a-repo.gif “点击进入github”)|
 
